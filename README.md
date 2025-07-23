@@ -29,3 +29,11 @@ Includes:
 - Customers with longer tenure are less likely to churn.
 - Higher monthly charges are associated with increased churn likelihood.
 - Churn varies widely across payment methods and services.
+
+## Business Recommendations
+
+- **Target Month-to-Month Customers:** Focus retention efforts on customers with month-to-month contracts, as they are more likely to churn.
+- **Reduce Monthly Charges for High-Risk Segments:** Offer discounts or bundling incentives for customers with high monthly charges who show signs of churn.
+- **Improve Support Services:** Customers with no tech support or security services tend to churn more. Encourage adoption of these services through upselling or free trials.
+- **Reward Loyalty:** Offer benefits for tenure milestones to retain long-term customers and reduce churn in early months.
+
